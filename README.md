@@ -5,7 +5,7 @@ Utility features:
 - Used by [Weather API](https://openweathermap.org/)
 - Report on temperature, humidity, wind strength, cloudiness
 
-## Install
+## Install global
 ``` bash
 $ npm -g i weather-cli-roman-cash
 ```
